@@ -1,0 +1,313 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 24.20.100.6136]
+    Renderer: Intel(R) UHD Graphics 620
+    Vendor:   Intel
+    VRAM:     2111 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Default GameObject Tag: Player1 already registered
+ 
+(Filename:  Line: 68)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\clipper_library.dll (this message is harmless)
+Loading C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\clipper_library.dll into Unity Child Domain
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Poly2Tri.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+desktop: 3240x2160 60Hz; virtual: 1620x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\System.dll (this message is harmless)
+ouya-unity-plugin version: 1.0.9.1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.287030 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 564.
+Total: 1.025454 ms (FindLiveObjects: 0.023757 ms CreateObjectMapping: 0.010666 ms MarkObjects: 0.121212 ms  DeleteObjects: 0.005333 ms)
+
+UnloadTime: 3.927757 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 572.
+Total: 2.139636 ms (FindLiveObjects: 0.036848 ms CreateObjectMapping: 0.018909 ms MarkObjects: 0.224969 ms  DeleteObjects: 0.890181 ms)
+
+Platform assembly: C:\Users\jonat\Downloads\PowerUp\PowerUp Win\PowerUp Win_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at HighScore+$OnLevelWasLoaded$12+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at misilepower.Enemy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bombpower.Explode () [0x00000] in <filename unknown>:0 
+  at bombpower+$Start$27+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bombpower.Explode () [0x00000] in <filename unknown>:0 
+  at bombpower+$Start$27+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bombpower.Explode () [0x00000] in <filename unknown>:0 
+  at bombpower+$Start$27+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bombpower.Explode () [0x00000] in <filename unknown>:0 
+  at bombpower+$Start$27+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:InternalGetGameObject ()
+  at UnityEngine.Component.get_gameObject () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Collision.get_gameObject () [0x00000] in <filename unknown>:0 
+  at playercontroller+$OnCollisionEnter$7+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at Spawner+$Wave1$15+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
+  at Spawner+$Wave1$15+$.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 2.417939 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 128 unused Assets to reduce memory usage. Loaded Objects now: 552.
+Total: 5.588363 ms (FindLiveObjects: 0.096000 ms CreateObjectMapping: 0.065939 ms MarkObjects: 0.793212 ms  DeleteObjects: 1.783757 ms)
+
