@@ -19,8 +19,14 @@ Action Packed dual stick shooter. Play with up to 6 people at once with xbox, ps
 - Space bar to shoot
 - left joystick move, right to aim, (O, A, X) button to shoot
 
-<img height="100px" src="https://media.istockphoto.com/vectors/computer-gamer-keyboard-wasd-keys-vector-illustration-wasd-keys-game-vector-id1193231012?k=6&m=1193231012&s=170667a&w=0&h=5qj6VEybo51Z3fktMsbPcrnBa7Xu39OrAzRepXCfg-8="/>
-<img height="100px" src="https://images-na.ssl-images-amazon.com/images/I/81CuoMmBtiL._SL1500_.jpg"/>
+<div width="100%" overflow="hidden">
+    <div width="100px" float="left">
+    <img height="100px" src="https://media.istockphoto.com/vectors/computer-gamer-keyboard-wasd-keys-vector-illustration-wasd-keys-game-vector-id1193231012?k=6&m=1193231012&s=170667a&w=0&h=5qj6VEybo51Z3fktMsbPcrnBa7Xu39OrAzRepXCfg-8="/>
+     </div>
+    <div margin-left="110px">
+    <img height="100px" src="https://images-na.ssl-images-amazon.com/images/I/81CuoMmBtiL._SL1500_.jpg"/>
+     </div>
+</div>
 
 # Ouya 📺
 
